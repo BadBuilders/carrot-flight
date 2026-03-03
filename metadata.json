@@ -1,0 +1,5 @@
+{
+  "name": "Carrot Flight",
+  "description": "A 3D flight game with dynamic weather system built with React and Three.js",
+  "requestFramePermissions": []
+}
